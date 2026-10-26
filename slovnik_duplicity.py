@@ -13,8 +13,3 @@ if 3 in unikatni_cisla:
 else:
     print("Číslo 3 ---NENÍ--- v množině unikátních čísel.")
 
-# operace rozdíl (-)
-
-vsichni_devs = python_devs - java_devs
-print("Všichni vývojáři (rozdíl):", vsichni_devs)
-print(20*"=")
